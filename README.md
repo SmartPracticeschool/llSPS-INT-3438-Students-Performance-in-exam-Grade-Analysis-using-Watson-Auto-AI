@@ -20,12 +20,15 @@
     
     
 * ## Process Flow - Flowchart:
-    ![FlowChart_WindPrediction](FlowChart_WindPrediction.png)
+    ![Demo_Prediction](Demo_Prediction.png)
+    
+    
+    ![Demo_Flow_Prediction](Demo_Flow_Prediction.png)
     
     
     ### Data Set Flow:
     
-    ![Data_Set_FlowChart](Data_Set_FlowChart.png)
+    ![Demo_Relation_Prediction](Demo_Relation_Prediction.png)
       
     
 * ## Project Description:
@@ -54,7 +57,7 @@
       
       
 * ## Demo:
-     ![Demo_Wind_Prediction](Demo_Wind_Prediction.png)
+     ![Demo_Test_Pre](Demo_Test_Pre.png)
     
     
 * ## Conclusion
