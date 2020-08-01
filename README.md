@@ -50,7 +50,7 @@
 * ## Skills Required:
       Python, Python For Data Analysis, Machine Learning, IBM Cloud, IBM Watson.
       
-     ![Conclosion](Conclosion.png)
+     
       
       
 * ## Demo:
@@ -60,6 +60,7 @@
 * ## Conclusion
   The following results have been averaged over 5 trials.
   
+  ![Conclosion](Conclosion.png)
 
 
   
