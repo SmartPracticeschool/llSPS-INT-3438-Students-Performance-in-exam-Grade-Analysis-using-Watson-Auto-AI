@@ -50,7 +50,7 @@
 * ## Skills Required:
       Python, Python For Data Analysis, Machine Learning, IBM Cloud, IBM Watson.
       
-      ![Conclosion](Conclosion.png)
+     ![Conclosion](Conclosion.png)
       
       
 * ## Demo:
